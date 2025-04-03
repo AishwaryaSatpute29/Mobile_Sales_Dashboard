@@ -44,3 +44,13 @@ The Mobile Sales Analysis Dashboard is an interactive Power BI solution designed
 - DAX (Data Analysis Expressions) – For advanced calculations and data modeling.
 
 - Data Modeling – To structure and optimize sales data for efficient analysis.
+
+## Dashboard
+![Dashboard Preview](https://github.com/user-attachments/assets/6179dabd-3d51-4fe9-a1cc-38a0d038bf31)
+![Dashboard](https://github.com/user-attachments/assets/3280ee92-bd6c-4323-914a-f9500661b820)
+![MTD Report](https://github.com/user-attachments/assets/2d5ef507-ab1d-4d56-a688-3e3606a45225)
+![Same Period Last Year Report](https://github.com/user-attachments/assets/2b5f7d52-6e3c-41cb-82d1-a28c83b5b729)
+
+
+
+
