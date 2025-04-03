@@ -16,8 +16,8 @@ The Mobile Sales Analysis Dashboard is an interactive Power BI solution designed
 
 ## 📈 Performance Improvements:
 
-Enhanced sales forecasting accuracy by 15-25% using data-driven insights and visual analytics.
+- Enhanced sales forecasting accuracy by 15-25% using data-driven insights and visual analytics.
 
-MTD (Month-To-Date) Report – Provides real-time tracking of sales, transactions, and average prices, enabling stakeholders to adjust strategies proactively.
+- MTD (Month-To-Date) Report – Provides real-time tracking of sales, transactions, and average prices, enabling stakeholders to adjust strategies proactively.
 
-Same Period Last Year (SPLY) Report – Facilitates year-over-year comparison to detect seasonal trends, growth patterns, and performance shifts.
+- Same Period Last Year (SPLY) Report – Facilitates year-over-year comparison to detect seasonal trends, growth patterns, and performance shifts.
