@@ -3,6 +3,15 @@
 The Mobile Sales Analysis Dashboard is an interactive Power BI solution designed to provide data-driven insights into mobile sales trends, customer preferences, and transaction behavior. The dashboard enables stakeholders to monitor sales performance, optimize strategies, and identify key growth opportunities.
 ## Dataset Used:
 - <a href="https://github.com/AishwaryaSatpute29/Mobile_Sales_Dashboard/blob/main/Mobile%20Sales%20Data.xlsx"> Dataset</a>
+## Objectives:
+✔️ To analyze overall mobile sales performance across different periods.
+✔️ To identify high-performing and underperforming sales months.
+✔️ To study customer payment behavior and highlight preferred payment methods.
+✔️ To track sales distribution across various brands, models, and cities.
+✔️ To compare sales data with historical trends for forecasting improvements.
+✔️ To understand customer feedback through rating analysis.
+✔️ To enable data-driven decision-making for stakeholders.
+
 ## Key Features & Insights:
 ✅ Total Sales Overview – Displays overall revenue, units sold, and average selling price, helping stakeholders assess the company's financial health.
 
@@ -21,3 +30,11 @@ The Mobile Sales Analysis Dashboard is an interactive Power BI solution designed
 - MTD (Month-To-Date) Report – Provides real-time tracking of sales, transactions, and average prices, enabling stakeholders to adjust strategies proactively.
 
 - Same Period Last Year (SPLY) Report – Facilitates year-over-year comparison to detect seasonal trends, growth patterns, and performance shifts.
+
+## 💡 Tools & Techniques Used:
+
+- Power BI – For data visualization and dashboard creation.
+  
+- DAX (Data Analysis Expressions) – For advanced calculations and data modeling.
+
+- Data Modeling – To structure and optimize sales data for efficient analysis.
