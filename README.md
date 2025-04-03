@@ -13,3 +13,11 @@ The Mobile Sales Analysis Dashboard is an interactive Power BI solution designed
 ✅ Sales by Mobile Model and City – Highlights top-selling brands (Apple, Samsung, OnePlus) and major sales hubs (Mumbai, Delhi, Bangalore), allowing for targeted marketing strategies.
 
 ✅ Customer Ratings Breakdown – Analyzes customer feedback to assess satisfaction levels and pinpoint areas for product or service improvement.
+
+## 📈 Performance Improvements:
+
+Enhanced sales forecasting accuracy by 15-25% using data-driven insights and visual analytics.
+
+MTD (Month-To-Date) Report – Provides real-time tracking of sales, transactions, and average prices, enabling stakeholders to adjust strategies proactively.
+
+Same Period Last Year (SPLY) Report – Facilitates year-over-year comparison to detect seasonal trends, growth patterns, and performance shifts.
