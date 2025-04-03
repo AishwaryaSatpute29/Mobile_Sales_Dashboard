@@ -51,6 +51,9 @@ The Mobile Sales Analysis Dashboard is an interactive Power BI solution designed
 ![MTD Report](https://github.com/user-attachments/assets/2d5ef507-ab1d-4d56-a688-3e3606a45225)
 ![Same Period Last Year Report](https://github.com/user-attachments/assets/2b5f7d52-6e3c-41cb-82d1-a28c83b5b729)
 
+## Conclusion:
+This project successfully delivers actionable insights for sales optimization, customer behavior analysis, and strategic decision-making in the mobile retail industry
+
 
 
 
